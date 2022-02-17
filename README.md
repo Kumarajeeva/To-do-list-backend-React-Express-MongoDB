@@ -1,4 +1,4 @@
-                                        DAILY JOURNAL WEBSITE
+                                       TO-DO-LIST website backend with database
 
 Check the deployed website in this URL: https://kumarajeeva-todolist-mongodb.herokuapp.com/
 

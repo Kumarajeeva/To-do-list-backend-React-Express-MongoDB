@@ -1,7 +1,5 @@
 # TO-DO-LIST website backend with database
 
-Check the deployed website in this URL: https://kumarajeeva-todolist-mongodb.herokuapp.com/
-
 DESCRIPTION:
 This is a to-do-list website where users can add the list of items and tasks they have to perform. The items can be added to the list and removed from the list. The users can also a create a custom list by adding a "/customlistname" to the end of the URL. The main list and all the custom lists are stored in MongoDB database. This website is developed using Node.js, Express, EJS and MongoDB.
 
